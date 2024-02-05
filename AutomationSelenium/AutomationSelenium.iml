@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../selenium jars/selenium-devtools-v117-4.15.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../selenium jars/opentelemetry-semconv-1.28.0-alpha.jar!/" />
+          <root url="jar://$MODULE_DIR$/../selenium jars/checker-qual-3.33.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../selenium jars/selenium-json-4.15.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../selenium jars/selenium-api-4.15.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../selenium jars/selenium-chrome-driver-4.15.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../selenium jars/selenium-edge-driver-4.15.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../selenium jars/opentelemetry-sdk-metrics-1.28.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../selenium jars/selenium-chromium-driver-4.15.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../selenium jars/opentelemetry-context-1.28.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../selenium jars/opentelemetry-api-events-1.28.0-alpha.jar!/" />
+          <root url="jar://$MODULE_DIR$/../selenium jars/opentelemetry-exporter-logging-1.28.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../selenium jars/selenium-devtools-v85-4.15.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../selenium jars/byte-buddy-1.14.5.jar!/" />
+          <root url="jar://$MODULE_DIR$/../selenium jars/selenium-firefox-driver-4.15.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../selenium jars/opentelemetry-sdk-logs-1.28.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../selenium jars/guava-32.1.2-jre.jar!/" />
+          <root url="jar://$MODULE_DIR$/../selenium jars/failureaccess-1.0.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../selenium jars/selenium-http-4.15.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../selenium jars/selenium-java-4.15.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../selenium jars/commons-exec-1.3.jar!/" />
+          <root url="jar://$MODULE_DIR$/../selenium jars/opentelemetry-sdk-extension-autoconfigure-spi-1.28.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../selenium jars/error_prone_annotations-2.18.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../selenium jars/opentelemetry-sdk-common-1.28.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../selenium jars/selenium-devtools-v118-4.15.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../selenium jars/opentelemetry-sdk-1.28.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../selenium jars/opentelemetry-api-1.28.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../selenium jars/selenium-devtools-v119-4.15.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../selenium jars/jsr305-3.0.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/../selenium jars/j2objc-annotations-2.8.jar!/" />
+          <root url="jar://$MODULE_DIR$/../selenium jars/opentelemetry-sdk-extension-autoconfigure-1.28.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../selenium jars/opentelemetry-sdk-trace-1.28.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../selenium jars/opentelemetry-extension-incubator-1.28.0-alpha.jar!/" />
+          <root url="jar://$MODULE_DIR$/../selenium jars/auto-service-annotations-1.1.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../selenium jars/selenium-ie-driver-4.15.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../selenium jars/failsafe-3.3.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/../selenium jars/selenium-manager-4.15.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../selenium jars/selenium-os-4.15.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../selenium jars/selenium-remote-driver-4.15.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../selenium jars/selenium-safari-driver-4.15.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../selenium jars/selenium-support-4.15.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/../selenium jars/selenium-devtools-v117-4.15.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../selenium jars/selenium-ie-driver-4.15.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../selenium jars/selenium-chromium-driver-4.15.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../selenium jars/selenium-manager-4.15.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../selenium jars/selenium-devtools-v119-4.15.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../selenium jars/selenium-json-4.15.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../selenium jars/selenium-chrome-driver-4.15.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../selenium jars/selenium-firefox-driver-4.15.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../selenium jars/selenium-edge-driver-4.15.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../selenium jars/selenium-devtools-v118-4.15.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../selenium jars/selenium-api-4.15.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../selenium jars/selenium-http-4.15.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../selenium jars/selenium-devtools-v85-4.15.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../selenium jars/selenium-os-4.15.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../selenium jars/selenium-remote-driver-4.15.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../selenium jars/selenium-safari-driver-4.15.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../selenium jars/selenium-support-4.15.0-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="testng" level="project" />
+    <orderEntry type="library" name="junit" level="project" />
+  </component>
+</module>
